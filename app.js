@@ -8,5 +8,4 @@ console.log(msg);
 // console.log(validator.isEmail('andrew@example.com'));
 // console.log(validator.isURL('www.google.com'));
 
-// console.log(chalk.bgBlack.green.bold('Success!'));
 console.log(chalk.green.inverse.bold.underline('Success!'));
